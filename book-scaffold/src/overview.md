@@ -1,5 +1,10 @@
 # Overview
 
+_“Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it 
+concentrates on one point. And then that becomes his point of view.”_
+
+_― David Hilbert_
+
 * [History of Quantum Computing](https://www.youtube.com/watch?v=Qa_9bQnrAw0)
 * [Quantum Computing for Computer Scientist](* [History of Quantum Computing](https://www.youtube.com/watch?v=Qa_9bQnrAw0))
 
