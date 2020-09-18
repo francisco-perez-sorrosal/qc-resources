@@ -9,3 +9,11 @@
 
 </p>
 </details>
+
+
+## Complex Numbers
+
+* [Summary Doc on Complex Numbers for Quantum Computing](http://quantum.harrisburg.tech/meetups/20200602/20200602FoundationsOfQuantumComputingII_ANNOTATED.pdf)
+High level view.
+* [Complex Numbers](https://medium.com/@notaredpanda/the-essence-of-quantum-mechanics-part-2-complex-numbers-1b051478fc2d)
+More basic geometric int. and rotations.

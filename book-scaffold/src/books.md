@@ -4,6 +4,8 @@
 
 * [Quantum Computing for Everyone (Chris Bernhardt)](refs.md#bernhardt) Intro/Generalistic
 
+* [Quantum Computing for Computer Scientists](refs.md#noson)
+
 ## Algorithms
 
 

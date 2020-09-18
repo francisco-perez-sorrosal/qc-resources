@@ -1,11 +1,17 @@
+# Online Resources
+
+* [Quantumapalooza](http://2020.quantumapalooza.com/)
+* [Quantum Curious](https://quantumcurious.org/)
+
 # Courses
 
-* [Quantum Mechanics and Quantum Computation (Vazirani, CS-191x Edx)](https://courses.edx.org/courses/course-v1:BerkeleyX+CS-191x+2T2020/)
+## [Quantum Mechanics and Quantum Computation (Vazirani, CS-191x Edx)](https://courses.edx.org/courses/course-v1:BerkeleyX+CS-191x+2T2020/)
 
 <details><summary>(Old) Courses</summary>
 <p>
 
-* [Quantum Computing (Dave Bacon, Department of Computer Science & Engineering, University of Washington: CSE-599d)](http://www.cs.washington.edu/education/courses/cse599d/06wi/)
+## [Quantum Computing (Dave Bacon, Department of Computer Science & Engineering, University of Washington: CSE-599d)](http://www.cs.washington.edu/education/courses/cse599d/06wi/)
+
 * Quantum Mechanics and Quantum Computation (Vazirani, CS-191x Edx, 2018)
   - [Chapter 1](https://courses.edx.org/c4x/BerkeleyX/CS191x/asset/chap1.pdf)
   - [Chapter 2](https://courses.edx.org/c4x/BerkeleyX/CS191x/asset/chap2.pdf)
@@ -20,3 +26,7 @@
   - [Chapter 11](https://courses.edx.org/c4x/BerkeleyX/CS191x/asset/chap11.pdf)
 </p>
 </details>
+
+## [Quantum Formalism Course 2020](https://github.com/quantumformalism)
+
+  - [Lecture 1 (Sets)](https://youtu.be/5v1x_SHt-PA)

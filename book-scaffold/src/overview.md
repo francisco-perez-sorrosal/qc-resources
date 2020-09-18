@@ -5,8 +5,9 @@ concentrates on one point. And then that becomes his point of view.”_
 
 _― David Hilbert_
 
+* [Quantum Computing for Computer Scientist](https://www.youtube.com/watch?v=F_Riqjdh2oM) Great Intro!
+* [Quantum Parallelism in Quantum Algorithms](https://www.youtube.com/watch?v=BOYif-cn0WA) Another great intro by Tamer Elkholy at Association Quantum (2020)
 * [History of Quantum Computing](https://www.youtube.com/watch?v=Qa_9bQnrAw0)
-* [Quantum Computing for Computer Scientist](* [History of Quantum Computing](https://www.youtube.com/watch?v=Qa_9bQnrAw0))
 
 <details><summary>Overview</summary>
 <p>
@@ -17,7 +18,3 @@ _― David Hilbert_
 </p>
 </details>
 
-## Computational Models
-
-### Gate-based (D-Wave)
-### Simulated Annealing-based
