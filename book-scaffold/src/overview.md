@@ -5,7 +5,10 @@ concentrates on one point. And then that becomes his point of view.”_
 
 _― David Hilbert_
 
-* [Quantum Computing for Computer Scientist](https://www.youtube.com/watch?v=F_Riqjdh2oM) Great Intro!
+**Quantum Computing**: Paradigm that explicitly using the properties of Quantum Mechanics, allows to perform 
+numerical computations orders of magnitude faster than currently available non-quantum computers. 
+
+* [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) Great Intro! [Alternative url](https://www.microsoft.com/en-us/research/video/quantum-computing-computer-scientists/)
 * [Quantum Parallelism in Quantum Algorithms](https://www.youtube.com/watch?v=BOYif-cn0WA) Another great intro by Tamer Elkholy at Association Quantum (2020)
 * [History of Quantum Computing](https://www.youtube.com/watch?v=Qa_9bQnrAw0)
 

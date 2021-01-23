@@ -6,3 +6,4 @@ src = "src"
 title = "Quantum Computing Resources"
 [output.html]
 theme = "src/theme"
+mathjax-support = true

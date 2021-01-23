@@ -1,18 +1,16 @@
 # Topics
 
-# Qubit
+## Models of Quantum Computing
 
-A unitary vector in a two-dimensional complex Hilbert space.
+All of the following models are equivalent to classical Turing Machine models. 
 
-## Quantum De-coherence
+- Quantum Turing machines
+- Quantum Circuits (Most popular)
+- Measurement based quantum computing
+- Adiabatic quantum computing
+- Topological quantum computing
 
-The mathematical representation of a quantum system is given by a wave function. If there's a definite phase
-relation between different states of the system, the system is said to be coherent. In a perfectly isolated
-environment, coherence is maintained indefinitely. However, the quantum system is impossible to be maniputated.
-For example, during measurement, the system isolation is broken, so coherence is shared with the environment and it's
- lost as time passes. This process is called decoherence.
-
-## Reversible Computation
+## Error Correction and Fault Tolerant QC
 
 ## Noise (Nash embeddings)
 
@@ -67,3 +65,4 @@ In 2020, noise is still a problem in QC. But was solved in the previous technolo
 * [Fault tolerance; bottom up approach (IBM)](https://www.ibm.com/blogs/research/2020/09/hardware-aware-quantum/)
 
 
+## Quantum Supremacy
