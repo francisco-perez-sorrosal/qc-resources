@@ -273,9 +273,9 @@ function playground_text(playground) {
 
 (function themes() {
     var html = document.querySelector('html');
-    var themeToggleButton = document.getElementById('theme-toggle');
-    var themePopup = document.getElementById('theme-list');
-    var themeColorMetaTag = document.querySelector('meta[name="theme-color"]');
+    var themeToggleButton = document.getElementById('.theme-toggle');
+    var themePopup = document.getElementById('.theme-list');
+    var themeColorMetaTag = document.querySelector('meta[name=".theme-color"]');
     var stylesheets = {
         ayuHighlight: document.querySelector("[href$='ayu-highlight.css']"),
         tomorrowNight: document.querySelector("[href$='tomorrow-night.css']"),
@@ -296,7 +296,7 @@ function playground_text(playground) {
 
     function get_theme() {
         var theme;
-        try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+        try { theme = localStorage.getItem('mdbook-.theme'); } catch (e) { }
         if (theme === null || theme === undefined) {
             return default_theme;
         } else {
@@ -312,17 +312,17 @@ function playground_text(playground) {
             stylesheets.tomorrowNight.disabled = false;
             stylesheets.highlight.disabled = true;
 
-            ace_theme = "ace/theme/tomorrow_night";
+            ace_theme = "ace/.theme/tomorrow_night";
         } else if (theme == 'ayu') {
             stylesheets.ayuHighlight.disabled = false;
             stylesheets.tomorrowNight.disabled = true;
             stylesheets.highlight.disabled = true;
-            ace_theme = "ace/theme/tomorrow_night";
+            ace_theme = "ace/.theme/tomorrow_night";
         } else {
             stylesheets.ayuHighlight.disabled = true;
             stylesheets.tomorrowNight.disabled = true;
             stylesheets.highlight.disabled = false;
-            ace_theme = "ace/theme/dawn";
+            ace_theme = "ace/.theme/dawn";
         }
 
         setTimeout(function () {
@@ -338,14 +338,14 @@ function playground_text(playground) {
         var previousTheme = get_theme();
 
         if (store) {
-            try { localStorage.setItem('mdbook-theme', theme); } catch (e) { }
+            try { localStorage.setItem('mdbook-.theme', theme); } catch (e) { }
         }
 
         html.classList.remove(previousTheme);
         html.classList.add(theme);
     }
 
-    // Set theme
+    // Set .theme
     var theme = get_theme();
 
     set_theme(theme, false);

@@ -4,6 +4,11 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Quantum Computing Resources"
+
 [output.html]
-theme = "src/theme"
 mathjax-support = true
+theme = "theme"
+
+[preprocessor.bib]
+bibliography = "biblio.bib"
+renderer = ["html"]

@@ -65,6 +65,17 @@ See [Deutsch algorithm](algorithms.md#Deutsch)
 Physics systems tend to seen a state of minimum energy; objects slide down hills, a hot object
 at time _t_ cools down in _t+1_... this is also true in the realm of quantum physics. 
 
+## NISQ (Noisy Intermediate-Scale Quantum)  
+
+Around 2020, NISQ is the current generation of quantum HW. The main drawback of this generation of HW is that it doesn't
+have efficient error correction. These days quantum algorithms are very sensitive to noise in the execution environments
+to achieve correct results. So while for example in the same way classical computers can't do big 
+factorizations effectively, a NISQ computer also requires millions of qubits to achieve the task and this is not feasible
+in many cases. The high number of qubits required is not because the algorithm requires them, but because error correction
+needs to be done to achieve a required precision in the output (See difference betweent [Logical vs Phisical Qubits](#Logical vs Phisical Qubit)).
+
+Around 2021 we can say that NISQ is the 1st generation of Quantum Computers publicly available.
+
 ## QPU
 
 The equivalent in the quatumn computing realm to CPUs/GPUs/TPUs.
@@ -91,7 +102,7 @@ A qubit is unitary vector in a two-dimensional complex Hilbert space.
 
 Qubits are manipulated using [Quantum Gates](#Quantum Gates).
 
-## (Logical vs Phisical) Qubit
+## Logical vs Phisical Qubit
 
 1 Logical qubit ~> 1:N Physical qubits. This is related to noise disturbations. The 
 lower the N the more efficient the quantum system. 
