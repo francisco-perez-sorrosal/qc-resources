@@ -22,3 +22,6 @@ numerical computations orders of magnitude faster than currently available non-q
 </details>
 
 \\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
+
+{{#cite ven_brain-inspired_2020}}
+{{#cite ven_brain-inspired_20201}}

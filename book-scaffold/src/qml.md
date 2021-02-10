@@ -17,3 +17,5 @@ for differentiable programming of QC. Works with Pytorch and TF.
 - [Strawberry Fields (XanaduAI)](https://github.com/XanaduAI/strawberryfields) Python library for designing, simulating, 
 and optimizing continuous-variable quantum optical circuits.
 
+- [Exaq ai](https://dev.exaq.ai/)
+  - [Poliadic QML](https://github.com/exaQ-ai/polyadicQML)

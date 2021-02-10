@@ -1,3 +1,14 @@
+People:
+
+Simon, 
+David Duestch, 
+Lov Grover, 
+Peter Shor, 
+Seth Llyod, 
+Aram Harrow, 
+Hassidim Manjunath
+
+
 * <a name="bernhardt">[Quantum Computing for Everyone](https://arxiv.org/abs/1908.10063)
 Chris Bernhardt
 2020
