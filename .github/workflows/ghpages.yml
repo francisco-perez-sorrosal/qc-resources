@@ -7,15 +7,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Install mdBook
-        uses: peaceiris/actions-mdbook@v1
-        with:
-          mdbook-version: '0.4.6'
-          # mdbook-version: 'latest'
 
       - name: Install mdBook bibliography Plugin
         uses: actions-rs/install@v0.1
